@@ -1,9 +1,9 @@
-# Swelife AI: workshop
-Jupyter-notebooks för att pröva på programmering, enkel datakälla och lite machine learning.
+# AI för bättre hälsa
+Detta repo är resultatet av [AI-projektet inom det strategiska innovationsprogrammet Swelife](https://vgrblogg.se/utveckling/2019/01/15/strategisk-ai/) under 2019-2020.
 
-En del av [AI-projektet inom Swelife, sponsrat av Vinnova](https://vgrblogg.se/utveckling/2019/01/15/strategisk-ai/).
+Förutom själva rapporten finns också Jupyter-notebooks för att pröva på programmering och lite enklare maskininlärning.
 
-## Samlingar av intressanta datakällor
+## Samlingar av intressanta datakällor (under uppdatering)
 Filer och datakällor man kan ha nytta av när man utvecklar. Vissa av dem har laddats upp i katalogen /dataset i detta repo.
 ### Kodverk
 * [NordDRG](http://www.socialstyrelsen.se/klassificeringochkoder/laddaner/drg) - patientklassificering och består av 1 920 grupper som gäller somatisk vård, rehabilitering, specialiserad öppenvård och primärvård (Socialstyrelsen)
