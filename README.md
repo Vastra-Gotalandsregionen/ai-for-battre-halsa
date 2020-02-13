@@ -6,7 +6,11 @@ Förutom själva rapporten finns också Jupyter-notebooks för att pröva på pr
 ## Samlingar av intressanta datakällor (under uppdatering)
 Filer och datakällor man kan ha nytta av när man utvecklar. Vissa av dem har laddats upp i katalogen /dataset i detta repo.
 ### Kodverk
-* [NordDRG](http://www.socialstyrelsen.se/klassificeringochkoder/laddaner/drg) - patientklassificering och består av 1 920 grupper som gäller somatisk vård, rehabilitering, specialiserad öppenvård och primärvård (Socialstyrelsen)
+* [NordDRG](http://www.socialstyrelsen.se/klassificeringochkoder/laddaner/drg) - patientklassificering och består av 1 920 grupper som gäller somatisk vård, rehabilitering, specialiserad öppenvård och primärvård (Socialstyrelsen). Se mappen /dataset
+* [ICPC - International Classification of Primary Care](https://en.wikipedia.org/wiki/International_Classification_of_Primary_Care) – svensk version i CSV, Excel och SQLite finns i /dataset
+
+### Datakällor
+* [Dermatologi: Asan, Inje, Hallym, Seoul](https://api.medicalphoto.org/datasets.html) - träningsdata, valideringsdata och annoterade resultat + AI:ns resultat
 
 ### Demografi och övriga öppna data
 * [Världsbanken](https://data.worldbank.org/)
